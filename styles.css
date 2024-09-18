@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#site-name {
+    font-size: 2.5em;
+    color: #333;
+}
